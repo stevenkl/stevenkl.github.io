@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>Home - {{global.blogname}}</title>
+	</head>
+	<body>
+		<div class="paper page">
+			{{page.content}}
+		</div>
+	</body>
+</html>
